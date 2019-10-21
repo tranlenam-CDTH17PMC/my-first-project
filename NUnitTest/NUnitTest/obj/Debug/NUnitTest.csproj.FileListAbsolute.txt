@@ -1,0 +1,6 @@
+C:\Users\ASUS\Desktop\KiemThu\NUnitTest\NUnitTest\bin\Debug\NUnitTest.exe.config
+C:\Users\ASUS\Desktop\KiemThu\NUnitTest\NUnitTest\bin\Debug\NUnitTest.exe
+C:\Users\ASUS\Desktop\KiemThu\NUnitTest\NUnitTest\bin\Debug\NUnitTest.pdb
+C:\Users\ASUS\Desktop\KiemThu\NUnitTest\NUnitTest\obj\Debug\NUnitTest.csprojResolveAssemblyReference.cache
+C:\Users\ASUS\Desktop\KiemThu\NUnitTest\NUnitTest\obj\Debug\NUnitTest.exe
+C:\Users\ASUS\Desktop\KiemThu\NUnitTest\NUnitTest\obj\Debug\NUnitTest.pdb

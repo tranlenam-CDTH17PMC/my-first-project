@@ -1,0 +1,9 @@
+C:\Users\ASUS\Desktop\KiemThu\NUnitTest\NUnitTest.Test\bin\Debug\NUnitTest.Test.dll
+C:\Users\ASUS\Desktop\KiemThu\NUnitTest\NUnitTest.Test\bin\Debug\NUnitTest.Test.pdb
+C:\Users\ASUS\Desktop\KiemThu\NUnitTest\NUnitTest.Test\bin\Debug\nunit.framework.dll
+C:\Users\ASUS\Desktop\KiemThu\NUnitTest\NUnitTest.Test\bin\Debug\NUnitTest.exe
+C:\Users\ASUS\Desktop\KiemThu\NUnitTest\NUnitTest.Test\bin\Debug\NUnitTest.pdb
+C:\Users\ASUS\Desktop\KiemThu\NUnitTest\NUnitTest.Test\bin\Debug\nunit.framework.xml
+C:\Users\ASUS\Desktop\KiemThu\NUnitTest\NUnitTest.Test\obj\Debug\NUnitTest.Test.csprojResolveAssemblyReference.cache
+C:\Users\ASUS\Desktop\KiemThu\NUnitTest\NUnitTest.Test\obj\Debug\NUnitTest.Test.dll
+C:\Users\ASUS\Desktop\KiemThu\NUnitTest\NUnitTest.Test\obj\Debug\NUnitTest.Test.pdb
